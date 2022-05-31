@@ -86,3 +86,26 @@ z-index: 9;
     color: white ;
 }
 
+.rightBarContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightBarStuff {
+    position: relative;
+    color: white;
+    width: 27em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 2.5vw;
+}
+
+.seperator {
+    width: 2.5em;
+    height: 2.5em;
+    filter: hue-rotate(140deg);
+}
+
