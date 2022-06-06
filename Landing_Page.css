@@ -162,7 +162,11 @@ h2 {
 .banner {
     display: flexbox;
     background-color: #3882f6;
-    padding-left: 15%;
+    padding-left: 3.5cm;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 85px;
+    border-radius: 30px;
 }
 
 .banner a {
@@ -175,5 +179,5 @@ h2 {
 
 .banner p a {
     font-size: 18px;
-    margin-top: 10px;
+    margin-top: 0;
 }
