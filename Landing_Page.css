@@ -79,20 +79,14 @@ h2 {
     padding-left: 120px;
 }
 
-.containerGrey p {
+.containerGrey a {
     display: flexbox;
     background-color: grey;
     color: white;
     text-decoration: none;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    max-width: 100px;
-    max-height: 50px;
-    padding: 100px 300px;
+    font-size: 18px;
     border-radius: 4px;
-    padding-bottom: 100px;
-    
-}
-.containerGrey a {
-    display: flex;
-    padding-left: 700px;
+    margin-left: 310px;
+    padding: 100px 130px;
 }
