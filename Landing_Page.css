@@ -128,4 +128,52 @@ h2 {
 
 .smallBoxText li {
     display: inline-flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.containerLightGrey {
+    background-color: gainsboro;
+    width: 100%;
+    height: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.containerLightGrey a {
+    display: flex;
+    justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    margin-top: 50px;
+    padding: 50px 50px;
+}
+
+.containerLightGrey span {
+    display: flex;
+    padding: 0;
+    line-height: 0px;
+    margin-top: -50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    float: right; 
+    padding-right: 20%;
+}
+
+.banner {
+    display: flexbox;
+    background-color: #3882f6;
+    padding-left: 15%;
+}
+
+.banner a {
+    display: flex;
+    background-color: #3882f6;   
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    color: white;
+}
+
+.banner p a {
+    font-size: 18px;
+    margin-top: 10px;
 }
